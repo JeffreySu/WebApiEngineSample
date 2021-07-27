@@ -7,9 +7,9 @@
 
 > /WebApiSample：项目目录
 
-> WeatherService.cs：演示将 Service 中的逻辑方法直接设置为 WebApi
+> /WebApiSample/WeatherService.cs：演示将 Service 中的逻辑方法直接设置为 WebApi
 
-> Startup.cs：包含了配置展示
+> /WebApiSample/Startup.cs：包含了配置展示
 
 ## WebApiEngine 源码
 
